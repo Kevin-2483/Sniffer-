@@ -1,3 +1,5 @@
 # Sniffer作业
 
 这是计算机网络课程的Sniffer作业
+
+本地构建时你需要把npcapSDK文件夹正确重命名npcap-sdk并放在这个项目的根目录
